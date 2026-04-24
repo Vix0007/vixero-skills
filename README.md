@@ -1,5 +1,7 @@
 # vixero-skills
 
+![Vixero Tech](assets/banner.png)
+
 **Aggressive token-efficient Agent Skills for Claude.** Built to practice what they preach.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
